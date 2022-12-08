@@ -1,4 +1,5 @@
-<h1>Bienvenue sur mon profil !<img src ="https://media.giphy.com/media/MksyvqJEf8yPK/giphy.gif" width = 60 margin-top = 20px> </h1>
+<h1>Bienvenue sur mon profil !</h1>
+<img src ="https://media.giphy.com/media/MksyvqJEf8yPK/giphy.gif" width = 80> 
 
 <!--
 **EstebanBiret/EstebanBiret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
