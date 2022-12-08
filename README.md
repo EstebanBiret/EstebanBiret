@@ -1,4 +1,4 @@
-<h1>Bienvenue sur mon profil !</h1> <img src ="https://media.giphy.com/media/MksyvqJEf8yPK/giphy.gif" width = 80> 
+<h1>Bienvenue sur mon profil !  <img src ="https://media.giphy.com/media/MksyvqJEf8yPK/giphy.gif" width = 80>  </h1>
 
 
 <!--
