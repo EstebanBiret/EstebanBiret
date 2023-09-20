@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Esteban BIRET-TOSCANO</h1>
 <h3 align="center">A fullstack developer from Toulouse</h3>
 
-<img align="right" alt="Leo" width="300" src="https://media.tenor.com/IErQHBRt6GIAAAAM/leonardo-dicaprio.gif">
+<img align="right" alt="Leo" width="200" src="https://media.tenor.com/IErQHBRt6GIAAAAM/leonardo-dicaprio.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estebanbiret&label=Profile%20views&color=0e75b6&style=flat" alt="estebanbiret" /> </p>
 
