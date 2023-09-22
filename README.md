@@ -1,16 +1,16 @@
-[![MasterHead](https://vastphotos.com/files/uploads/photos/11058/snowy-mountain-landscape-wallpaper-l.jpg?v=20220712073521)](https://estebanbiret.github.io/Raviolo/)
+[![MasterHead](https://vastphotos.com/files/uploads/photos/11058/snowy-mountain-landscape-wallpaper-l.jpg?v=20220712073521)](https://EstebanBiret.github.io/Raviolo/)
 <h1 align="center">Hi 👋, I'm Esteban BIRET-TOSCANO</h1>
 <h3 align="center">A fullstack developer from Toulouse</h3>
 
 <img align="right" alt="Leo" width="150" src="https://media.tenor.com/IErQHBRt6GIAAAAM/leonardo-dicaprio.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estebanbiret&label=Profile%20views&color=0e75b6&style=flat" alt="estebanbiret" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EstebanBiret&label=Profile%20views&color=0e75b6&style=flat" alt="EstebanBiret" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estebanbiret" alt="estebanbiret" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EstebanBiret" alt="EstebanBiret" /></a> </p>
 
 - 🔭 I’m currently working on [Slaves Narratives WebSite](https://github.com/EstebanBiret/SAE-S5-Slave-Narratives)
 
-- 👨‍💻 Here's my portfolio website [https://estebanbiret.github.io/Site_Web/](https://estebanbiret.github.io/Site_Web/)
+- 👨‍💻 Here's my portfolio website [https://EstebanBiret.github.io/Site_Web/](https://EstebanBiret.github.io/Site_Web/)
 
 - 📫 How to reach me **esteban.biret@gmail.com**
 
