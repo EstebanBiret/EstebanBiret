@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EstebanBiret&label=Profile%20views&color=0e75b6&style=flat" alt="EstebanBiret" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EstebanBiret" alt="EstebanBiret" /></a> </p>
-
 - 🔭 I’m currently working on [Slaves Narratives WebSite](https://github.com/EstebanBiret/SAE-S5-Slave-Narratives)
 
 - 👨‍💻 Here's my portfolio website [https://embuscade.tech/](https://embuscade.tech/)
