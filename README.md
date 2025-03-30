@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EstebanBiret&label=Profile%20views&color=0e75b6&style=flat" alt="EstebanBiret" /> </p>
 
-- 🔭 I’m currently working on []()
-
 - 👨‍💻 Here's my portfolio website [https://biret-toscano.fr/](https://biret-toscano.fr/)
 
 - 📫 How to reach me **esteban.biret@gmail.com**
