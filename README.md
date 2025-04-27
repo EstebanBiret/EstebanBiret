@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/esteban-biret-toscano-b7b766252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteban-biret-toscano-b7b766252/" height="30" width="40" /></a>
-  <a href="https://discord.gg/embuscade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
@@ -47,6 +46,9 @@
 </a>
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+</a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://spring.io/img/projects/spring-boot.svg" alt="spring boot" width="40" height="40"/> 
 </a>
 
 <!-- Développement web (HTML, CSS) -->
